@@ -8,4 +8,5 @@ package com.lzs.common;
 public class ErrorStatus {
 
     public static final int NETWORK_IS_BUSY = 10001;
+    public static final int FILES_IS_EMPTY = 10002;
 }
